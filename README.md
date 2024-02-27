@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social Links Profile](https://github.com/MICHELLENGEI/social-links-profile-main)
+- Live Site URL: [Social Links Profile](https://sociallinksprofilefrontendmentor.netlify.app/)
 
 ## My process
 
@@ -61,7 +61,7 @@ I would like to revisit this project after a while and attempt it using a js fra
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Social Links Profile](https://sociallinksprofilefrontendmentor.netlify.app/)
 - Frontend Mentor - [@MICHELLENGEI](https://www.frontendmentor.io/profile/MICHELLENGEI)
 
 
